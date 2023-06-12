@@ -1,0 +1,29 @@
+1.The probability that both cards drawn are queens or diamonds is 15/221. The answer is (b) 15/221.
+
+2.The probability that 5 of the 8 drawn balls are pink and the rest are orange is 16/143. The answer is (a) 16/143.
+
+3.The probability that the room gets lighted when 4 bulbs are chosen is 33/44. The answer is (c) 33/44.
+
+4.The probability that at least one letter is placed in the wrong addressed envelope is 1 - (1/10!). The answer is (c) 1 - (1/10!).
+
+5.The probability that the product of three randomly selected numbers from 1 to 10 is an odd number is 3/4. The answer is (c) 3/4.
+
+6.The probability that either both shirts are white or blue is 1/15. The answer is (d) 1/15.
+
+7.The probability of picking up 2 orange towels randomly is 2/15. The answer is (b) 2/15.
+
+8.The probability that the first ball drawn is "red" and the second ball is "green" (without replacement) is 16/65. The answer is (c) 16/65.
+
+9.The probability that the card drawn is a face card (Jack, Queen, and King only) is 12/52, which simplifies to 3/13. The answer is A. 3/13.
+
+10.The number of questions wrongly answered by X is 47. The answer is B. 47.
+
+11.The probability of selecting 2 women when four persons are chosen at random from a group of 3 men, 2 women, and 4 children is 1/6. The answer is B. 1/6.
+
+12.The probability that the drawn card is either a heart or diamond card is 1/2. The answer is C. 1/2.
+
+13.The probability of neither getting an even number on one die nor a multiple of 3 on the other die is 25/36. The answer is B. 25/36.
+
+14.The events K and L are not disjoint since their intersection probability is not zero. The answer is B. False.
+
+15.The probability that the drawn ticket has a number which is a multiple of 4 or 15 is 7/10. The answer is C. 7/10.
